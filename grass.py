@@ -12,3 +12,5 @@ class Grass:
         pass
 
 
+class Grass_up:
+    pass
